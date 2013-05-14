@@ -1,0 +1,11 @@
+
+
+public class regalo {
+	String nombreRegalo;
+	String marca;
+	int precio;
+	int edadNecesaria;
+	
+	
+    
+}
